@@ -1,0 +1,29 @@
+remote_theme: pages-themes/architect@v0.2.0
+title: All Projects
+description: A catalogue of projects by Chris Barlow.
+url: https://chrisbarlow.nz
+baseurl: /projects
+lang: en_NZ
+
+author:
+  name: Chris Barlow
+  url: https://chrisbarlow.nz
+
+social:
+  name: Chris Barlow
+  links:
+    - https://www.linkedin.com/in/cgbarlow/
+    - https://github.com/cgbarlow
+    - https://unchartedquests.substack.com/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  typographic_symbols:
+    mdash: "---"
+    ndash: "--"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
