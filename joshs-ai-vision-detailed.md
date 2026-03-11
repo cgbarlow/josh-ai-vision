@@ -2,7 +2,7 @@
 
 **A practical roadmap for building AI into the daily operations of a trades business, from personal assistant to business brain to collective intelligence.**
 
-![Document preview](path/to/preview.png)
+![Preview](The_Trades_OS.png)
 
 [PDF](path/to/file.pdf)
 
