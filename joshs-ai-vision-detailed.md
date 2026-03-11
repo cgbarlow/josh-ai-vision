@@ -10,7 +10,7 @@
 
 <br>
 
-![Preview](The_Trades_OS.png)
+[![Preview](The_Trades_OS.png)](The_Trades_AI_OS_(2).pdf)
 
 [PDF](The_Trades_AI_OS_(2).pdf)
 
