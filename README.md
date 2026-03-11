@@ -1,4 +1,4 @@
-# Josh's Vision: AI for the Electrical Business
+# What if every tradie had an AI agent in their pocket?​​​​​​​​​​​​​​​​
 
 ## The Personal Agent
 
