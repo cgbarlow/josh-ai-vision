@@ -1,8 +1,8 @@
 remote_theme: pages-themes/architect@v0.2.0
-title: All Projects
-description: A catalogue of projects by Chris Barlow.
+title: Joshs AI Vision
+description: AI-powered vision for running a smarter trades business​​​​​​​​​​​.
 url: https://chrisbarlow.nz
-baseurl: /projects
+baseurl: /josh-ai-vision
 lang: en_NZ
 
 author:
