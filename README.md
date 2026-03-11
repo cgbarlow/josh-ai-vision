@@ -1,5 +1,7 @@
 # What if every tradie had an AI agent in their pocket?​​​​​​​​​​​​​​​​
 
+![Infographic](AI-powered-tradesperson-infographic.png)
+
 ## The Personal Agent
 
 Every team member gets a personal AI agent they interact with primarily through voice. The agent acts as a working companion that:
