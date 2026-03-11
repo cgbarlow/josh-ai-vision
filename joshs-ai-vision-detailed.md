@@ -2,6 +2,13 @@
 
 **A practical roadmap for building AI into the daily operations of a trades business, from personal assistant to business brain to collective intelligence.**
 
+*All great things start with a conversation.*
+
+<audio controls>
+  <source src="path/to/file.mp3" type="audio/mpeg">
+</audio>
+
+
 ![Preview](The_Trades_OS.png)
 
 [PDF](The_Trades_AI_OS_(2).pdf)
