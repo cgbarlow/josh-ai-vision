@@ -30,3 +30,5 @@ The end goal isn't just efficiency for profit's sake. By tightening waste and au
 - Operate to a defined income target, then redirect surplus toward social good and community outcomes
 
 **Design principles:** Human-initiated input. Proactive output. Operator-controlled privacy. Voice-first interaction. Build trust through stepping stones, not big bangs.
+
+[Detailed vision](joshs-ai-vision-detailed.md)
