@@ -9,6 +9,7 @@
 </audio>
 
 <br>
+
 ![Preview](The_Trades_OS.png)
 
 [PDF](The_Trades_AI_OS_(2).pdf)
