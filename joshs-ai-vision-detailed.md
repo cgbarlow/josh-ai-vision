@@ -4,7 +4,7 @@
 
 ![Preview](The_Trades_OS.png)
 
-[PDF](path/to/file.pdf)
+[PDF](The_Trades_AI_OS_(2).pdf)
 
 
 ---
