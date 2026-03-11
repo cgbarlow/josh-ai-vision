@@ -2,6 +2,11 @@
 
 **A practical roadmap for building AI into the daily operations of a trades business, from personal assistant to business brain to collective intelligence.**
 
+![Document preview](path/to/preview.png)
+
+[PDF](path/to/file.pdf)
+
+
 ---
 
 ## 1. The Problem
